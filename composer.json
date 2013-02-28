@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "dev-master",
+        "phpunit/phpunit": "3.7.*"
+    }
+}
