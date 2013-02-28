@@ -12,7 +12,7 @@ Você irá precisar de:
 
 * Conhecimento em PHP
 
-* Ambiente de desenvolvimento instalado : Apache + PHP5.4+ + PERL  e etc
+* Ambiente de desenvolvimento instalado : Apache + PHP5.4+ + PEAR  e etc
 
 * Ambiente de teste instalado : PHPUNIT
 
