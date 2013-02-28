@@ -12,7 +12,7 @@ Você irá precisar de:
 
 * Uma conta google para o hangout
 
-* Uma conta Github para o C9.io
+* Uma conta Github para o [C9.io](http://c9.io/thamarahessel/dojoonline)
 
 * Conhecimento em PHP
 
