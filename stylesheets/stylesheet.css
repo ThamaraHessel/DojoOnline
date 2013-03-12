@@ -152,9 +152,15 @@ aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/button.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
+}
+
+#newdate{
+    text-decoration: blink;
+    color:#474747;
+    font-size: larger;
 }
 
 code, pre {
